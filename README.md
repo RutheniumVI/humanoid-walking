@@ -1,6 +1,4 @@
 # humanoid-walking
-# humanoid-walking
-
 This repository contains a NAO robot URDF and PyBullet demos, plus a simple RL setup to train a walking policy.
 
 Quick start
