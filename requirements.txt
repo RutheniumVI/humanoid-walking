@@ -1,0 +1,6 @@
+pybullet
+stable-baselines3
+gym
+torch
+numpy
+shimmy>=2.0
